@@ -1,4 +1,6 @@
-Welcome to OpenRec!
+welcome to blue rec
+a local host server
 
-BTW IF YOU SEE THIS, SHUT UP
-THANK YOU
+at times the server will be disabled 
+for updates or any others
+

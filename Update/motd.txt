@@ -1,6 +1,5 @@
 welcome to blue rec
 a local host server
 
-at times the server will be disabled 
-for updates or any others
-
+dev mode is been disabled and will come
+back at later date

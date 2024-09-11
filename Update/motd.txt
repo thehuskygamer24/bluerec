@@ -1,5 +1,5 @@
 welcome to blue rec
-this message's news
+this message includes
 
 april 2017 is being held as if now
 dev mode is coming out soon with a build to go with it

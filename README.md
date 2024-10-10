@@ -14,7 +14,7 @@ blue rec provides an non toxic rec room server for 2017 builds at this time
 may 2017 working
 octobor 2017 soon cut off
 september 2017 working
-april 2017 = wip
+april 2017 = suspended
 
 ### upcoming updates
 2016 builds for the users who really enjoy 2016

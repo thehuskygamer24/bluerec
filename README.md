@@ -1,17 +1,28 @@
-# Welcome to OpenRec!
+# Welcome to bluerec!
 ---
-OpenRec is a RecRoom server software made by recroom2016!
+bluerec
 
 ### Branches
- - Master / main
- - Nightly
+i forgot
 
-The master branch is the public branch where all the latest updates are published.
-The nightly branch is where all the experimental updates that are needed to be tested before release are.
+blue rec provides an non toxic rec room server for 2017 builds at this time
 
----
+
+###
+
+what works as if now
+
+may 2017 working
+octobor 2017 soon cut off
+september 2017 working
+april 2017 = wip
+
+###
+upcoming updates
+2016 builds for the users who really enjoy 2016
 
 ### Getting in contact with the community
 
 If you are new to this we recommend you joining our Discord!
-Link: https://discord.com/invite/daC8QUhnFP
+our discord is here
+https://discord.gg/Mx76ShzsEe

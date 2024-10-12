@@ -12,7 +12,7 @@ blue rec provides an non toxic rec room server for 2017 builds at this time
 ### what works as if now
 
 may 2017 working
-octobor 2017 soon cut off
+octobor 2017 photon investigation
 september 2017 working
 april 2017 = suspended
 

@@ -11,10 +11,10 @@ blue rec provides an non toxic rec room server for 2017 builds at this time
 
 ### what works as if now
 
-may 2017 working
-octobor 2017 closed
-september 2017 working
-april 2017 = suspended
+may 2017 = working
+octobor 2017 = closed
+september 2017 = working
+april 2017 = to be announced
 
 ### upcoming updates
 2016 builds for the users who really enjoy 2016

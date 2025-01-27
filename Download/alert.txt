@@ -1,3 +1,3 @@
-ALERT: the owner has discovered a bug for the server or 2017 version
+ALERT: the owner has discovered a bug for the server or 2017 versions
 this bug will easily crash your game please do not use the charades notes in any room
 or instance. bug cause: unknown

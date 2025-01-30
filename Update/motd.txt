@@ -1,9 +1,5 @@
 Welcome to BlueRec 
-support
-for 2017 and 2016
-enjoy your time
-theres only 2 rules
-listen to any admins
-instructions
-and do not use level
-99 unless your a admin
+active bug alert:
+Please do not use the charade
+notes in any room
+they will easily crash your game

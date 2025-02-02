@@ -6,7 +6,7 @@ bluerec
 i forgot
 
 ### info
-blue rec provides an non toxic rec room server for 2017 builds at this time
+blue rec provides an non toxic portable rec room server for 2017 
 
 
 ### what works as if now
@@ -23,4 +23,4 @@ april 2017 = to be announced
 
 If you are new to this we recommend you joining our Discord!
 our discord is here
-https://discord.gg/Mx76ShzsEe
+https://discord.gg/UvjDB9b7Pd

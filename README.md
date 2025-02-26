@@ -17,7 +17,7 @@ september 2017 = working
 april 2017 = to be announced
 
 ### upcoming updates
-2016 builds for the users who really enjoy 2016
+unsure
 
 ### Getting in contact with the community
 
